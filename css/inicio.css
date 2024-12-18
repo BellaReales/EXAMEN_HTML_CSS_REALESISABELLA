@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    height: 100vh;
+    font-family: 'Dancing Script', cursive;
+    background-color: white;
+}
+.Cursiva {
+    font-style: italic;  
+    transform: skewX(-10deg);
+}
+
+.imagen {
+    margin-left: 40%;
+}
